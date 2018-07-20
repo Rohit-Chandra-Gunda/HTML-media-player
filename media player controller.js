@@ -11,7 +11,7 @@
    limitations under the License.
 */
 
-$(document).ready(function(){
+		$(document).ready(function(){
 			
 				var video_path = "";
 				var audio_path = "";
